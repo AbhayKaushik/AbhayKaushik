@@ -1,9 +1,7 @@
 
-# Abhay Kaushik  <!--[Image](http://www.piskelapp.com/static/resources/github_octocat.gif)-->
+# Abhay Kaushik  
 
 [![Twitter Badge](https://img.shields.io/twitter/url?labelColor=blue&color=blue&label=%40Abhay_Kaushik_&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FAbhay_Kaushik_)](https://twitter.com/AbhayKaushik) [![LinkedIn Badge](https://img.shields.io/badge/-grey?logo=linkedin&style=for-the-badge&&labelColor=754ad3&color=754ad3&label=abhay-kaushik)](https://www.linkedin.com/in/abhay-kaushik/) [![Gmail Badge](https://img.shields.io/badge/-grey?logo=gmail&style=for-the-badge&labelColor=orange&color=orange&label=abhay.gyanbharati%40gmail.com)](mailto:abhaygyanbharati@gmail.com)
-
----
 
 ## Hi there 👋 
 
@@ -31,12 +29,5 @@ I like to work on different technologies and love it when different technology d
 - 🌱 I’m currently learning more about React and Flutter
 - 💬 Ask me about tech, pixelart, music
 - ⚡ I blog at [A Novice's Nook](https://abhaykaushik.github.io)
-<!--
-[![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=%40Abhay_Kaushik_&logo=twitter&logoColor=blue&style=social&url=https%3A%2F%2Ftwitter.com%2FAbhay_Kaushik_)](https://twitter.com/AbhayKaushik) 
--->
-
-<!--
-[![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=%40Abhay_Kaushik_&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FAbhay_Kaushik_)](https://twitter.com/AbhayKaushik)
--->
 
 ⭐️ From [AbhayKaushik](https://github.com/AbhayKaushik)
