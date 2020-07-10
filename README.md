@@ -29,5 +29,3 @@ I like to work on different technologies and love it when different technology d
 - 🌱 I’m currently learning more about React and Flutter
 - 💬 Ask me about tech, pixelart, music
 - ⚡ I blog at [A Novice's Nook](https://abhaykaushik.github.io)
-
-⭐️ From [AbhayKaushik](https://github.com/AbhayKaushik)
