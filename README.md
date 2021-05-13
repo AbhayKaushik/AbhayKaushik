@@ -1,7 +1,7 @@
 
 # Abhay Kaushik  
 
-[![Twitter Badge](https://img.shields.io/twitter/url?labelColor=blue&color=blue&label=%40Abhay_Kaushik_&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FAbhay_Kaushik_)](https://twitter.com/AbhayKaushik) [![LinkedIn Badge](https://img.shields.io/badge/-grey?logo=linkedin&style=for-the-badge&&labelColor=754ad3&color=754ad3&label=abhay-kaushik)](https://www.linkedin.com/in/abhay-kaushik/) [![Gmail Badge](https://img.shields.io/badge/-grey?logo=gmail&style=for-the-badge&labelColor=orange&color=orange&label=abhay.gyanbharati%40gmail.com)](mailto:abhaygyanbharati@gmail.com)
+[![Twitter Badge](https://img.shields.io/twitter/url?labelColor=blue&color=blue&label=%40Abhay_Kaushik_&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FAbhay_Kaushik_)](https://twitter.com/Abhay_Kaushik_) [![LinkedIn Badge](https://img.shields.io/badge/-grey?logo=linkedin&style=for-the-badge&&labelColor=754ad3&color=754ad3&label=abhay-kaushik)](https://www.linkedin.com/in/abhay-kaushik/) [![Gmail Badge](https://img.shields.io/badge/-grey?logo=gmail&style=for-the-badge&labelColor=orange&color=orange&label=abhay.gyanbharati%40gmail.com)](mailto:abhaygyanbharati@gmail.com)
 
 ## Hi there 👋 
 
@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Abhay Kaushik, a 3rd year CSE undergrad :man_technologist: who is passionate about machine learning and open source. 
-I like to work on different technologies and love it when different technology domains come together in a project ✨
+I'm Abhay Kaushik, a final year CSE undergrad :man_technologist: whose passionate about machine learning and open source.
+I like to work on different technologies and love it when various technology domains come together in a project ✨
 
 <img align="right" src="http://www.piskelapp.com/static/resources/github_octocat.gif">
 
