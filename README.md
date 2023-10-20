@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Abhay Kaushik, a final year CSE undergrad :man_technologist: whose passionate about machine learning and open source.
+I'm Abhay Kaushik, a final year CSE postgrad :man_technologist: who's passionate about machine learning and open source.
 I like to work on different technologies and love it when various technology domains come together in a project ✨
 
 <img align="right" src="http://www.piskelapp.com/static/resources/github_octocat.gif">
 
 - 🔭 I’m currently working on Machine Learning projects
-- 🌱 I’m currently learning more about React and Flutter
+- 🌱 I’m currently learning more about Natural Language Processing and Data Systems
 - 💬 Ask me about tech, pixelart, music
 - ⚡ I blog at [A Novice's Nook](https://abhaykaushik.github.io)
